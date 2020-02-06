@@ -3,3 +3,6 @@ eggs
 honey
 beer
 booze
+ice cream
+meat
+potatoes
